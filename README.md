@@ -25,10 +25,3 @@ A utility class for handling user input. It provides methods to get double input
 
 Contains a set of static methods for performing various calculations. It includes methods for basic arithmetic operations (addition, subtraction, multiplication, division, power) and statistical operations (mean, standard deviation, variance). The methods are designed to be reusable and can be called from other classes.
 
-## How to Use
-
-Compile the Java files using a Java compiler.
-
-   ```bash
-   javac Main.java UserInput.java Calculator.java
-   java Main
