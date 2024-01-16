@@ -5,12 +5,6 @@
 
 This Java program calculates and prints the first `n` Fibonacci numbers, where `n` is provided by the user.
 
-## Usage
-
-1. Compile the code:
-   ```bash
-   javac FibonacciScanner.java
-
 <h1 align=center>Part 2</h1>
 
 # Calculator Application
